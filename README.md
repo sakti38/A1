@@ -1,3 +1,3 @@
-Ini adalah kumpulan project yang saya buat untuk latihan
+Berisi dokumen proses saya dalam belajar
 
 - Sakti Mahamboro
