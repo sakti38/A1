@@ -6,5 +6,5 @@ $$\boxed{
 
 Tempat belajar dan berkembang
 
-Sakti Mahamboro
+Sakti Mahamboro <br>
 Thursday, 05 September 2024, 12:32:38
