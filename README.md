@@ -1,6 +1,6 @@
 $$\boxed{
 \begin{array}{c}
-\Large \textbf{Lab}\\
+\Large \textbf{Lab - A1}\\
 \end{array}
 }$$
 
